@@ -1,0 +1,6 @@
+@api_dtcl_HostAddress = http://localhost:5067
+
+GET {{api_dtcl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
